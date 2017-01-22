@@ -815,6 +815,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
+  * [Standard Notes](https://standardnotes.org/) - A standard notes app with an un-standard focus on longevity, portability, and privacy. ([Source Code](https://github.com/standardnotes/desktop)) `GPLv3` `Ruby`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
